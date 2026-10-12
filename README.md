@@ -1,4 +1,4 @@
-# AI Product Manager Portfolio
+# AI Product Manager Portfolio.
 
 This repository is the starting point for building a portfolio that demonstrates practical product judgment for AI Product Manager roles. The portfolio website itself has not been built yet; this README and [context.md](context.md) define its direction and setup plan.
 
